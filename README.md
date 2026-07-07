@@ -7,3 +7,4 @@ My Name is Rajpal Singh.
 I am learning GitHub.
 
 This is my first repository.
+*This line was added in feature-1 branch. 
